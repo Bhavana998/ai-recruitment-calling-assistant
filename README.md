@@ -1222,62 +1222,6 @@ Testing includes
 
 # 📸 Application Screenshots
 
-> Replace the placeholder images below with your own screenshots after deployment.
-
-## 🏠 Dashboard
-
-<p align="center">
-<img src="assets/dashboard.png" width="90%">
-</p>
-
----
-
-## 🔐 Login Page
-
-<p align="center">
-<img src="assets/login.png" width="90%">
-</p>
-
----
-
-## 👥 Candidate Management
-
-<p align="center">
-<img src="assets/candidates.png" width="90%">
-</p>
-
----
-
-## 📞 AI Calling Dashboard
-
-<p align="center">
-<img src="assets/calls.png" width="90%">
-</p>
-
----
-
-## 📄 Call Transcript
-
-<p align="center">
-<img src="assets/transcript.png" width="90%">
-</p>
-
----
-
-## 📅 Interview Scheduling
-
-<p align="center">
-<img src="assets/calendar.png" width="90%">
-</p>
-
----
-
-## 📊 Analytics Dashboard
-
-<p align="center">
-<img src="assets/analytics.png" width="90%">
-</p>
-
 ## 📞 Live AI Voice Call
 
 <p align="center">
