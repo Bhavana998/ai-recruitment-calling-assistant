@@ -481,7 +481,7 @@ D --> E
 F --> E
 ```
 
-📊 Database Tables
+# 📊 Database Tables
 Candidates
 
 Stores all candidate information fetched from ATS.
@@ -551,7 +551,7 @@ phone_number	VARCHAR
 company_name	VARCHAR
 
 
-🔄 Request Flow
+# 🔄 Request Flow
 
 
 Client
@@ -604,7 +604,7 @@ Database
 
 Response
 
-🔐 Authentication Flow
+# 🔐 Authentication Flow
 
 sequenceDiagram
 
@@ -628,7 +628,7 @@ JWT-->>API: Access Token
 
 API-->>User: JWT
 
-📡 REST API Documentation
+# 📡 REST API Documentation
 Authentication
 
 Method	Endpoint	Description
@@ -671,7 +671,7 @@ GET	/api/analytics/calls
 GET	/api/analytics/candidates
 GET	/api/reports/transcripts
 
-📞 AI Calling Pipeline
+# 📞 AI Calling Pipeline
 
 
 Recruiter
