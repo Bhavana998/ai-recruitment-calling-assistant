@@ -8,6 +8,7 @@
 Automate recruitment calls • Screen candidates • Extract hiring insights • Schedule interviews • Sync with ATS
 
 </p>
+
 🌟 Overview
 
 Hiring teams spend countless hours conducting repetitive first-round screening calls. Recruiters ask the same questions, manually record responses, verify candidate details, update ATS systems, and coordinate interview schedules.
