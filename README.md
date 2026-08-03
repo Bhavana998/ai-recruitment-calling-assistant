@@ -9,7 +9,7 @@ Automate recruitment calls • Screen candidates • Extract hiring insights •
 
 </p>
 
-🌟 Overview
+# 🌟 Overview
 
 Hiring teams spend countless hours conducting repetitive first-round screening calls. Recruiters ask the same questions, manually record responses, verify candidate details, update ATS systems, and coordinate interview schedules.
 
@@ -19,7 +19,7 @@ Instead of recruiters making repetitive calls, an AI-powered voice assistant con
 
 This platform combines modern conversational AI, speech recognition, natural language understanding, and cloud-based telephony to deliver a scalable recruitment automation solution.
 
-🚀 Key Highlights
+# 🚀 Key Highlights
 
 ✅ Production-Ready REST API
 
@@ -51,7 +51,7 @@ This platform combines modern conversational AI, speech recognition, natural lan
 
 ✅ Production Deployment
 
-✨ Features
+# ✨ Features
 📞 AI Voice Recruitment Calls
 
 The assistant automatically places outbound recruitment calls using AI-generated speech.
@@ -64,7 +64,7 @@ Personalized greetings
 Job explanation
 Candidate verification
 Call recording
-🎤 Intelligent Speech Recognition
+# 🎤 Intelligent Speech Recognition
 
 Candidate responses are converted into text using automatic speech recognition.
 
@@ -74,7 +74,7 @@ Speech-to-text conversion
 Accurate transcript generation
 Multi-response capture
 Conversation recording
-🧠 Large Language Model Processing
+# 🧠 Large Language Model Processing
 
 The assistant understands natural conversations instead of relying on keyword matching.
 
@@ -89,7 +89,8 @@ Experience
 Employment Type
 Candidate Interest
 Interview Availability
-📅 Automated Interview Scheduling
+
+# 📅 Automated Interview Scheduling
 
 Qualified candidates can be scheduled directly through Google Calendar integration.
 
@@ -100,7 +101,7 @@ Interview creation
 Recruiter notification
 Candidate confirmation
 Calendar synchronization
-🏢 ATS Synchronization
+# 🏢 ATS Synchronization
 
 The assistant communicates directly with recruitment platforms.
 
@@ -112,7 +113,7 @@ Lever
 
 Candidate information stays synchronized automatically throughout the recruitment workflow.
 
-📊 Recruiter Dashboard
+# 📊 Recruiter Dashboard
 
 Recruiters can
 
@@ -123,7 +124,8 @@ Download reports
 Review analytics
 Schedule interviews
 Track recruitment progress
-🎯 Business Problem
+
+# 🎯 Business Problem
 
 Traditional recruitment involves repetitive manual work.
 
@@ -139,7 +141,7 @@ Following up
 
 This project automates those repetitive tasks while maintaining a conversational and personalized experience.
 
-💡 Solution
+# 💡 Solution
 
 The AI assistant performs the complete recruitment workflow automatically.
 
@@ -240,7 +242,7 @@ B --> I
 
 The implementation uses an Express.js backend connected to PostgreSQL and integrates Twilio, ElevenLabs, AssemblyAI, OpenAI, Google Calendar, and Greenhouse to support the recruitment workflow.
 
-🔄 Complete AI Workflow
+# 🔄 Complete AI Workflow
 
 graph TD
 
@@ -282,7 +284,7 @@ I[Schedule Interview]
 
 J[Sync ATS]
 
-🧠 AI Pipeline
+# 🧠 AI Pipeline
 
 Candidate Speaks
 
@@ -334,7 +336,7 @@ Structured JSON
 
 PostgreSQL Database
 
-⚡ Why This Project Stands Out
+# ⚡ Why This Project Stands Out
 
 Unlike traditional CRUD applications, this project combines multiple enterprise technologies into a single intelligent workflow:
 
