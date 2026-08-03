@@ -1298,11 +1298,10 @@ Testing includes
 </p>
 
 ## 🎥 Live Demo
-<p align="center">
-<img src="https://raw.githubusercontent.com/Bhavana998/ai-recruitment-calling-assistant
-/main/demo.gif">
-</p>
 
+<p align="center">
+  <img src="demo.gif" alt="Live Demo" width="100%">
+</p>
 
 ---
 
