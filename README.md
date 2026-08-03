@@ -1243,10 +1243,7 @@ Testing includes
 </p>
 
 ## 🎥 Live Demo
-
-<p align="center">
-  <img src="assets/demo.mp4" width="100%" alt="Project Demo">
-</p>
+ **Demo Video:** `ai-recruitment-demo.mp4`
 
 ---
 
