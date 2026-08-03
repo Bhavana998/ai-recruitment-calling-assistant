@@ -1499,8 +1499,6 @@ If you use this project in your research or work, please consider citing it.
 
 # ⭐ If you like this project, give it a Star ⭐
 
-**Built with ❤️ using Node.js, Express.js, PostgreSQL, OpenAI, Twilio, ElevenLabs, and AssemblyAI**
-
 ---
 
 
