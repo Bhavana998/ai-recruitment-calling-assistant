@@ -202,7 +202,7 @@ Interview Scheduling
 ATS Synchronization
 
 
-🏗️ System Architecture
+# 🏗️ System Architecture
 
 graph LR
 
