@@ -1277,6 +1277,15 @@ Testing includes
 <img src="assets/analytics.png" width="90%">
 </p>
 
+## 📞 Live AI Voice Call
+
+<p align="center">
+  <img src="assets/ai-voice-call.png" width="35%" alt="AI Voice Call">
+</p>
+
+<p align="center">
+  <em>Live outbound AI recruitment call initiated successfully using Twilio Voice. The AI assistant contacts candidates automatically and conducts the first-round screening conversation.</em>
+</p>
 ---
 ## 📡 API Testing
 
