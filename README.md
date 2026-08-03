@@ -1278,6 +1278,15 @@ Testing includes
 </p>
 
 ---
+## 📡 API Testing
+
+<p align="center">
+  <img src="assets/api-call-success.png" width="100%" alt="API Call Success">
+</p>
+
+<p align="center">
+  <em>Successful API request initiating an AI recruitment call. The backend returns a queued status along with a unique call ID and Twilio SID.</em>
+</p>
 
 # 🎥 Demo
 
