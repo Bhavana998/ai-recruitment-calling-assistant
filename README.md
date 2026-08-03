@@ -1204,6 +1204,27 @@ Testing includes
   <em>Successful API request initiating an AI recruitment call. The backend returns a queued status along with a unique call ID and Twilio SID.</em>
 </p>
 
+## Testing the Live API
+
+Once you have a JWT token (see Authentication below), you can trigger a 
+real outbound call like this:
+
+**1. Create a request file** (`call-request.json`):
+```json
+{"candidateId": "your-candidate-id-here"}
+```
+
+**2. Send the request:**
+```bash
+curl.exe -X POST https://ai-recruitment-calling-assistant.onrender.com/api/calls/initiate \
+  -H "Authorization: Bearer <your-jwt-token>" \
+  -H "Content-Type: application/json" \
+  --data "@call-request.json"
+```
+
+This creates a `call_sessions` record and places a real outbound call via 
+Twilio to the candidate's phone number on file.
+
 ## 🎥 Live Demo
  **Demo Video:** `ai-recruitment-demo.mp4`
 ---
