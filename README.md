@@ -1297,13 +1297,16 @@ Testing includes
   <em>Successful API request initiating an AI recruitment call. The backend returns a queued status along with a unique call ID and Twilio SID.</em>
 </p>
 
-## 🎥 Live Demo
+# 🎥 Live Demo
 
 <p align="center">
-  <img src="assets/demo.gif" width="900" alt="Project Demo">
+  <img src="assets/demo.gif" alt="AI Recruitment Calling Assistant Demo" width="100%">
 </p>
 
-**📹 Full video:** [ai-recruitment-demo.mp4](assets/ai-recruitment-demo.mp4)
+<p align="center">
+  <b>End-to-End AI Recruitment Calling Workflow</b><br>
+  Recruiter → AI Call → Candidate Conversation → Speech Recognition → LLM Analysis → ATS Update → Interview Scheduling
+</p>
 
 ---
 
