@@ -1300,7 +1300,7 @@ Testing includes
 ## 🎥 Live Demo
 
 <p align="center">
-  <img src="demo.mp4" alt="Live Demo" width="100%">
+  <img src="demo.mp4" alt="AI Recruitment Calling Assistant" width="100%">
 </p>
 
 ---
