@@ -878,45 +878,6 @@ GREENHOUSE_API_KEY=
 
 GREENHOUSE_BASE_URL=
 ```
-
----
-
-# 🐳 Docker Deployment
-
-## Dockerfile
-
-```dockerfile
-FROM node:20
-
-WORKDIR /app
-
-COPY package*.json ./
-
-RUN npm install
-
-COPY . .
-
-EXPOSE 3000
-
-CMD ["npm","start"]
-```
-
----
-
-## Build Image
-
-```bash
-docker build -t ai-recruitment .
-```
-
----
-
-## Run Container
-
-```bash
-docker run -p 3000:3000 ai-recruitment
-```
-
 ---
 
 # ☁️ Deployment
@@ -983,6 +944,8 @@ npm start
 ```
 
 ---
+# Render Link
+Health Check: https://ai-recruitment-calling-assistant.onrender.com/health
 
 # 🔒 Security
 
@@ -1217,9 +1180,6 @@ Testing includes
 - Monitor system health continuously.
 
 ---
-
----
-
 # 📸 Application Screenshots
 
 ## 📞 Live AI Voice Call
@@ -1244,6 +1204,24 @@ Testing includes
 
 ## 🎥 Live Demo
  **Demo Video:** `ai-recruitment-demo.mp4`
+---
+# Twilio Note
+Note on Twilio Trial Account
+
+This project uses Twilio, as specified, for outbound calling. Testing was 
+done on a Twilio trial (unpaid) account, which comes with two standard 
+platform restrictions — not bugs or missing features in this build:
+
+1. Trial disclaimer message: Twilio automatically plays a message 
+   ("This call is from a trial account...") before any custom call logic, 
+   on every call. This is inserted by Twilio itself and cannot be removed 
+   from application code.
+2. Verified numbers only: trial accounts can only call phone numbers that 
+   have been manually verified in the Twilio console beforehand.
+
+Confirmed in testing: after the trial disclaimer plays, the application's 
+own AI call logic runs correctly. Upgrading the Twilio account with billing 
+removes the disclaimer immediately, with no code changes needed.
 
 ---
 
