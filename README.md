@@ -1503,11 +1503,4 @@ If you use this project in your research or work, please consider citing it.
 
 ---
 
-### "Building Intelligent Recruitment Systems with Conversational AI"
-
-</div>
-
-
-
-
 
